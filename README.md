@@ -19,7 +19,7 @@ Simple Validator Code:
                   alert('success');
            },
            errorHandler : {
-               errorBgColor : 'pink',
+               errorBgColor : 'red',
                errorMsgColor : 'yellow'
             } 
 
