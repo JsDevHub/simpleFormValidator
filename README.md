@@ -29,14 +29,10 @@ Simple Validator Code:
  
 HTML Code;
 
-<!---
-  <form id="check" >
+  &lt;form id=&quot;check&quot; &gt;
   
-   <input type='text' name='name' class='form-fields' req='true'  msg='This filed is required' len='20' >
+   &lt;input type='text' name='name' class='form-fields' req='true'  msg='This filed is required' len='20' &gt;
  
-   <input type='submit' value='submit' >
- 
- </form>
+   &lt;input type='submit' value='submit' &gt;
 
----->
 
