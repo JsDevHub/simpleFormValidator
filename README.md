@@ -30,11 +30,11 @@ Simple Validator Code:
 HTML Code:
 
 
-<pre style='color:green'>
+ 
    &lt;form id=&quot;check&quot; &gt;
   
    &lt;input type='text' name='name' class='form-fields' req='true'  msg='This filed is required' len='20' &gt;
  
    &lt;input type='submit' value='submit' &gt;
-</pre>
+ 
 
