@@ -26,7 +26,7 @@ var SimpleFormValidator = (function() {
 
 				if (validateFormData(event, config) == 0) {
 
-					if (!isNull(config.sucsuccessHandler))
+					if (!isNull(config.successHandler))
 						config.successHandler($('#' + config.formId));
 
 				}
