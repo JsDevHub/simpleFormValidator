@@ -9,7 +9,6 @@ Simple html form validator with minimal configurations.
 
 Sample Example : 
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Sample SFV</title>
