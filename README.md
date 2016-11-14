@@ -27,7 +27,7 @@ Simple Validator Code:
   
  
  
-HTML Code;
+HTML Code:
 
   &lt;form id=&quot;check&quot; &gt;
   
